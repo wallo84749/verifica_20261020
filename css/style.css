@@ -1,0 +1,24 @@
+h1{
+    color: rgb(112, 43, 43);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.sezione-p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(158, 142, 111);
+}
+
+img{
+    max-width: 40%;
+    height: auto;
+    display: flex;
+    border-radius: 25%;
+}
+
+nav{
+    d
+}
